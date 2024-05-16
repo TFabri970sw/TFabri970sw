@@ -1,1 +1,3 @@
-# <samp>Thiago Fabri</samp><img src="" width="30px" height="30px">
+# <samp>Thiago Fabri</samp>
+
+[![Instagram Badge](https://www.instagram.com/tfabri_?igsh=bDEyMWhqZzlsemFp)
