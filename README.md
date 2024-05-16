@@ -1,4 +1,4 @@
-# <samp>Thiago Fabri</samp><img src="https://github.com/TFabri970sw/TFabri970sw/blob/main/github/one-piece-pixel.gif" width="50px" height="50px">
+# <samp>Thiago Fabri</samp><img src="https://github.com/TFabri970sw/TFabri970sw/blob/main/github/one-piece-pixel.gif" width="100px" height="100px">
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://https://www.instagram.com/tfabri_?igsh=bDEyMWhqZzlsemFp)](https://www.instagram.com/tfabri_?igsh=bDEyMWhqZzlsemFp)
 
