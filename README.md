@@ -7,3 +7,5 @@
 ## <samp>Hello World!</samp>
 
 <samp>I'm Thiago Fabri, Brazilian 
+
+- 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/TFabri970sw/list-of-courses-certifications)</samp>
