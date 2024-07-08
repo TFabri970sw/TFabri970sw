@@ -5,6 +5,10 @@
  [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tfabri_/)
 ## <samp>Hello World!</samp>
 
-<samp>I'm Thiago Fabri, Brazilian 
+<samp>I'm Thiago Fabri, Brazilian future software engineer
 
+- 🗯️ In my free time I like:
+  - 📖 Read;
+  - 🤓 Take courses;
+  - 🎮 Play.
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/TFabri970sw/list-of-courses-certifications)</samp>
