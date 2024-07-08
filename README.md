@@ -17,3 +17,7 @@
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/TFabri970sw/list-of-courses-certifications)</samp>
 
 ## <samp>Estatísticas do GitHub: </samp>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TFabri970sw&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745f5&text_color=FFFFFF&bg_color=000000" alt="status do github do TFabri970sw" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFabri970sw&layout=compact&hide_border=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000" />
