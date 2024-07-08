@@ -1,6 +1,6 @@
 # <samp>Thiago Fabri
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://https://www.linkedin.com/in/thiago-fabri-b125972ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)](https://www.linkedin.com/in/thiago-fabri-b125972ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 
+<a href="https://www.linkedin.com/in/thiago-fabri-b125972ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 
 
 
