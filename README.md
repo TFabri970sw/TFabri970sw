@@ -7,8 +7,13 @@
 
 <samp>I'm Thiago Fabri, Brazilian future software engineer
 
+- 🏡&nbsp;<samp>I love being with my family and friends, they are everything to me.</samp>
+- ✈️&nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
+
 - 🗯️ In my free time I like:
   - 📖 Read;
   - 🤓 Take courses;
   - 🎮 Play.
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/TFabri970sw/list-of-courses-certifications)</samp>
+
+## <samp>Estatísticas do GitHub: </samp>
