@@ -1,4 +1,4 @@
-# <samp>Thiago Fabri</samp><img src="https://github.com/TFabri970sw/TFabri970sw/blob/main/Readme-gif/spiritie___idle_by_porforever_d9t5ysy.gif" width="55px" height="55px">
+# <samp>Thiago Fabri</samp><img src="https://github.com/TFabri970sw/TFabri970sw/blob/main/Readme-gif/alicorn_blast__specter_by_pix3m_d8j0xtm.gif" width="55px" height="55px">
 
 <a href="https://www.linkedin.com/in/thiago-fabri-b125972ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
  <a href = "thiagofabri73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
