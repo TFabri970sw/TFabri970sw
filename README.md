@@ -1,4 +1,4 @@
-# <samp>Thiago Fabri
+# <samp>Thiago Fabri</samp><img src="" width="30px" height="30px">
 
 <a href="https://www.linkedin.com/in/thiago-fabri-b125972ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
  <a href = "thiagofabri73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
