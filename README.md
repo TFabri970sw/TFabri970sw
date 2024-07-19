@@ -1,8 +1,6 @@
-# <samp>Thiago Fabri</samp><img src="https://github.com/TFabri970sw/TFabri970sw/blob/main/Readme-gif/spiritie___spawn_by_porforever_d9t5xvi.gif" width="55px" height="55px">
+# <samp>Thiago Fabri</samp>👋
 
-<a href="https://www.linkedin.com/in/thiago-fabri-b125972ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
- <a href = "thiagofabri73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tfabri_/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https:https://www.linkedin.com/in/thiago-fabri-b125972ba/)](https:https://www.linkedin.com/in/thiago-fabri-b125972ba/)
 ## <samp>Hello World!</samp> <img src="https://github.com/TFabri970sw/TFabri970sw/blob/main/Readme-gif/earth.gif" width="22px" height="22px">
 
 <samp>I'm Thiago Fabri, Brazilian future software engineer
