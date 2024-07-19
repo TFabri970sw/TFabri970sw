@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#3c3c3c=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000000=120&section=header"/>
 
 
 # <samp>Thiago Fabri</samp>👋
