@@ -1,6 +1,6 @@
 # <samp>Thiago Fabri</samp>👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https:https://www.linkedin.com/in/thiago-fabri-b125972ba/)](https:https://www.linkedin.com/in/thiago-fabri-b125972ba/)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https:https://www.linkedin.com/in/thiago-fabri-b125972ba/)
 ## <samp>Hello World!</samp> <img src="https://github.com/TFabri970sw/TFabri970sw/blob/main/Readme-gif/earth.gif" width="22px" height="22px">
 
 <samp>I'm Thiago Fabri, Brazilian future software engineer
