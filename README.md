@@ -1,4 +1,4 @@
-# <samp>Thiago Fabri</samp>👋
+# <samp>Thiago Fabri</samp> 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https:/https://www.linkedin.com/in/thiago-fabri-b125972ba/)](https://www.linkedin.com/in/thiago-fabri-b125972ba/)
 
