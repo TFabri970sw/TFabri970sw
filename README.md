@@ -2,6 +2,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https:/https://www.linkedin.com/in/thiago-fabri-b125972ba/)](https://www.linkedin.com/in/thiago-fabri-b125972ba/)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=Gmail&logoColor=white&color=071A2C&)](Thiago:thiagofabri73@gmail.com)
+
 ## <samp>Hello World!</samp> <img src="https://github.com/TFabri970sw/TFabri970sw/blob/main/Readme-gif/earth.gif" width="22px" height="22px">
 
 <samp>I'm Thiago Fabri, Brazilian future software engineer
