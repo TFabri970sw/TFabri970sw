@@ -10,7 +10,11 @@
 
 ###
 
-<h6 align="left">I'm Thiago Fabri, Brazilian future software engineer<br>	- 🏡 I love being with my family and friends, they are everything to me.<br>	- ✈️ I love to travel and get to know new places and cultures.<br>	- 👨‍🎓 My academic life here!</h6>
+<h6 align="left">I'm Thiago Fabri, Brazilian future software engineer<br>	
+  
+  - 🏡 I love being with my family and friends, they are everything to me.<br>	
+  - ✈️ I love to travel and get to know new places and cultures.<br>	
+  - 👨‍🎓 &nbsp;<samp>My academic life [__here!__](https://github.com/TFabri970sw/list-of-courses-certifications)</samp> 
 
 ###
 
