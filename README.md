@@ -1,4 +1,4 @@
-<h2 align="left">Hello Word!🌍</h2>
+<h2 align="left">Hello Word! <img src = "https://github.com/TFabri970sw/TFabri970sw/blob/main/Readme-gif/earth.gif" width="22px" height="22px">
 
 ###
 
