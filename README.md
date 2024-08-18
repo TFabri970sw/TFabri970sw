@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">I'm Thiago Fabri, Brazilian future software engineer<br>	
+<h6 align="left">
   
   - 🏡 I love being with my family and friends, they are everything to me.<br>	
   - ✈️ I love to travel and get to know new places and cultures.<br>	
